@@ -1,37 +1,150 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jemin777/WilmixTutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Wilmix Programming  Tutorial </title>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<style>
+  
 
-```markdown
-Syntax highlighted code block
+h1 {
+            font-size: 15px;
+ style="color:blue";       }
+        h2 {
+            color: rgb(0, 232, 15);
+            font-size: 1.5em;
+        }      
+ body {
+            font-size: 15px; bgcolor="blue";
+        }
+        h2 {
+            color: rgb(0, 232, 15);
+            font-size: 1.5em;
+        }  
+        
+        #rabbits-info-heading {
+            background-color: purple;
+        }
+        
+        p {
+            color: rgb(191, 0, 255);
+            font-family: "Helvetica", sans-serif;
+        }
+        
+        #rabbits-info {
+            color: purple;
+        }
+        
+        .song-lyrics {
+            background-color: yellow;
+            font-family: monospace;
+        }
+        
+      
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+.myButton {
+	-moz-box-shadow: 3px 4px 0px 0px #3dc21b;
+	-webkit-box-shadow: 3px 4px 0px 0px #3dc21b;
+	box-shadow: 3px 4px 0px 0px #3dc21b;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #44c767), color-stop(1, #5cbf2a));
+	background:-moz-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
+	background:-webkit-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
+	background:-o-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
+	background:-ms-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#44c767', endColorstr='#5cbf2a',GradientType=0);
+	background-color:#44c767;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	border-radius:15px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #5cbf2a), color-stop(1, #44c767));
+	background:-moz-linear-gradient(top, #5cbf2a 5%, #44c767 100%);
+	background:-webkit-linear-gradient(top, #5cbf2a 5%, #44c767 100%);
+	background:-o-linear-gradient(top, #5cbf2a 5%, #44c767 100%);
+	background:-ms-linear-gradient(top, #5cbf2a 5%, #44c767 100%);
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#5cbf2a', endColorstr='#44c767',GradientType=0);
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
 
-1. Numbered
-2. List
+  </style>  
+</head>
+<body>
+<img  src="Wilmix.png">     <p class=h1 align="center">Wilmix Tutorial</p>
 
-**Bold** and _Italic_ and `Code` text
+<img src="pic.jpg">
+  
+<br>
 
-[Link](url) and ![Image](src)
-```
+ <div class="col-sm-8 text-left"> 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+      <h1>Welcome to Wilmix Tutorial! </h1>
+      <p>Wilmix Tutorial  is  meant  for  Professionals   who  interested  in Security,CodeSecurity,RemoteWebApplication,WebApplication,
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jemin777/WilmixTutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Software , securable  Database,etc.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</p>
+      <hr>
+ 
+    </div>
+
+ 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Kindly  click here  for  choosing   the  Tutorial
+<br>
+<a href="#" class="myButton">GDollar Programming Tutorial</a>
+
+
+
+
+<a href="#" class="myButton">CDollar Programming Tutorial</a>
+
+
+
+<a href="#" class="myButton">WEB1.0 Programming Tutorial</a>
+
+
+
+
+
+<br>
+<hr>
+<p align="center"> Wilmix Tutorial  (C)  2017  All Rights  Reserved</p>
+
+</body>
+
+
+</html>
